@@ -1,0 +1,23 @@
+1. Working area 
+**Our working area is basically our local repo/folder(Within my window machinegitgoi / Ubuntu machine)
+** Whatever you do in your working area is saved there. 
+==> git add -A or git add .
+
+
+2. Staging area 
+==> git commit -m "commit message"
+
+A commit message describes the chages you have done to the code you are about to push to the remote repo. 
+
+3. Commit area 
+==>> git log 
+# git log shows the commit harsh, author 
+# date of commit and the commit message 
+==> git log --oneline
+# Gives you a summary of all your logs. 
+==> git status 
+# it tells us what file we need to stage for a commit.vag
+==> git config --global core.editor "Nano"
+# This is to change core from Nano to VIM or VI
+
+

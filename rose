@@ -1,0 +1,16 @@
+NB: Create a token on github before you link the local repo 
+to the  remote repo. In order to do this, we will need our github username and password. 
+=============================================================
+steps to get your access token as password.. 
+==============ing
+-- go to developer settings 
+-- click on personal access tokens, and select classic tokens
+-- click on generate new tokens
+-- give it a name. 
+-- set it for 30 days  -- all repo 
+-- generate token
+
+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
+
+==> git push gitclassrepo master
+============
